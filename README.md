@@ -1,4 +1,4 @@
-# Data structures implementations
+#                          Data structure implementations
 
 ## This repository will show abstract data type implementations in both Python and Javascript. Disfrutar!
 
@@ -8,7 +8,6 @@
 - Linked List
 - Binary Tree
 - Graph
-
 '''
 
 and more to come ...
