@@ -5,9 +5,9 @@
 ### Abstract data structures to be implemented from scratch include:
 
 
-- 'Linked List'
-- 'Binary Tree'
-- 'Graph'
+- Linked List
+- Binary Tree
+- Graph
 
 
 and more to come ...
