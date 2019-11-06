@@ -12,8 +12,10 @@
 #### Searching and Sorting algorithms:
 
 - Selection Sort
-- Inserstion Sort
+- Insertion Sort
 - Merge Sort
+- Linear Search
+- Binary Search
 
 and more to come ...
 
